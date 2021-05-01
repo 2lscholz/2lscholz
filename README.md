@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lars
-- 👀 I’m interested in computer schience, data science, pentesting, webdesign, webdevelopment, crypto coins, forex trading
+- 👀 I’m interested in computer schience, data science, webdesign, webdevelopment, security/pentesting, crypto coins, blockchain & DLT, forex trading
 - 🌱 I’m currently learning python, data mining, machine learning
 - 💞️ I’m looking to collaborate on something interesting ;-)
 - 📫 How to reach me 2lscholz@informatik.uni-hamburg.de
