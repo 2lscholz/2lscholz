@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer schience, data science, webdesign, webdevelopment, security/pentesting, crypto coins, blockchain & DLT, forex trading
 - 🌱 I’m currently learning python, data mining, machine learning
 - 💞️ I’m looking to collaborate on something interesting ;-)
-- 📫 How to reach me 2lscholz@informatik.uni-hamburg.de
+- 📫 How to reach me 2p1k3_22@protonmail.com
 
 <!---
 2lscholz/2lscholz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
